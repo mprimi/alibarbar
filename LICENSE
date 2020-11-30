@@ -1,22 +1,6 @@
-# Ali Bar-Bar
-
-### Homepage source
-
-🌐 https://mprimi.github.io/alibarbar/
-
-Built with [Jekyll](https://jekyllrb.com/).
-Based on [DashingCode's Front Cover theme](https://github.com/dashingcode/front-cover).
-
-Are you reading this because you want to build a similar website?
-Let me help you! ✌️
-
-
-## Front Cover License
-
-```
 The MIT License (MIT)
 
-Copyright (c) 2016 DashingCode
+Copyright (c) 2020 Marco Primi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -35,4 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
